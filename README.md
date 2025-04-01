@@ -7,6 +7,6 @@ Welcome to the exciting world of Time Series Analysis and Forecasting in Python.
 ## About Me
 
 **Vishal Kumar**
-- [GitHub](https://github.com/VishalKumar-GitHub/Time-Series-Analysis-and-Forecasting-with-Python/blob/main/README.md)
+- [GitHub](https://github.com/VishalKumar-GitHub)
 
 📫 **Follow me** on [Xing](https://www.xing.com/profile/Vishal_Kumar055381/web_profiles?expandNeffi=true) | [LinkedIn](https://www.linkedin.com/in/vishal-kumar-819585275/)
